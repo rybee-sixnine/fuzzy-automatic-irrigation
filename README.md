@@ -56,5 +56,7 @@ Wokwi Link: (paste link wokwi kamu disini)
 
 ## 👨‍💻 Author
 
+Wokwi link : https://wokwi.com/projects/461809256631429121
+
 Arrio Yazid Busthami
 D3 Teknik Komputer - Politeknik Sriwijaya
