@@ -48,15 +48,16 @@ This project uses **Mamdani Fuzzy Inference System** consisting of:
 
 ## 🧪 Simulation
 
-Wokwi Link: (paste link wokwi kamu disini)
+https://wokwi.com/projects/461809256631429121
 
 ## 📷 Preview
 
-(Add screenshots here)
+![Blue Condition](blue.png)
+![Yellow Condition](yellow.png)
+![Green Condition](green.png)
+![Red Condition](red.png)
 
 ## 👨‍💻 Author
-
-Wokwi link : https://wokwi.com/projects/461809256631429121
 
 Arrio Yazid Busthami
 D3 Teknik Komputer - Politeknik Sriwijaya
