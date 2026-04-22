@@ -52,10 +52,13 @@ https://wokwi.com/projects/461809256631429121
 
 ## 📷 Preview
 
-![Blue Condition](blue.png)
-![Yellow Condition](yellow.png)
-![Green Condition](green.png)
-![Red Condition](red.png)
+![Tutup - Blue](blue.png)
+
+![Sedikit - Yellow](yellow.png)
+
+![Sedang - Green](green.png)
+
+![Banyak - Red](red.png)
 
 ## 👨‍💻 Author
 
